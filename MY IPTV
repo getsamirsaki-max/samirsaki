@@ -12,22 +12,26 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
-#EXTINF:-1 tvg-name="Sony Aath",Sony Aath
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
-#EXTINF:-1 tvg-name="Sony Aath",Sony Aath
+#EXTINF:-1  ,Sony AATH
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 tvg-name="Sony Aath",Sony Aat
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD",Jalsha Movies HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla Cinema",Zee Bangla Cinema
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDM.m3u8
+#EXTINF:-1  ,Zee Bangla Sonar (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema",Colors Bangla Cinema
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDc.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD",Enter 10
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1  ,Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD",HI Dost
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-name="T Sports HD",T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD",T Sports HD
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
@@ -52,6 +56,8 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzA.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAx.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket",Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+#EXTINF:-1  ,DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Unite8 Sports 2
@@ -67,9 +73,13 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="Euro Sports",Euro Sports
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDA.m3u8
 #EXTINF:-1 tvg-name="Ptv Sports",Ptv Sports
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTI.m3u8
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Fast Sports",Fast Sports
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
+#EXTINF:-1  ,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1  ,Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-name="Golf Sports",Golf Sports
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjY.m3u8
 #EXTINF:-1 tvg-name="Golf Sports",THunder TV
@@ -164,12 +174,16 @@ https://s1.itcnbd.live/SangeetBangla/tracks-v1a1/mono.m3u8
 https://s2.itcnbd.live/server-2/proxy/andpicture_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fandpicture_hd_576%2Fandpicture_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dandpicture_hd_576%26gp_id%3D
 #EXTINF:-1 tvg-name="NTV HD",Clors Cineplex HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTA.m3u8
+#EXTINF:-1  ,Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Colors HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NA.m3u8
-#EXTINF:-1 tvg-name="NTV HD",Sony HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTE.m3u8
-#EXTINF:-1 tvg-name="NTV HD",Set Max HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjE.m3u8
+#EXTINF:-1  ,Sony TV
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1  ,Sony Max HD
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
+#EXTINF:-1  ,Sony Max 2
+https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Star Bharat HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAw.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Star Gold 2 HD
@@ -182,6 +196,18 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzE.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjQ.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Zee Cinema HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTM.m3u8
+#EXTINF:-1  ,GOLDMINES
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1  ,GOLDMINES
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1  ,Bollywood 4U (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
+#EXTINF:-1  ,Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1  ,Bollywood Masala (1080p)
+https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
+#EXTINF:-1  ,MBC Bollywood (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Zee TV HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nw.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Zing 
@@ -196,6 +222,10 @@ https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-name="NTV HD",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1  ,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1  ,9XM TV
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Party Universe
 https://s2.itcnbd.live/server-1/stream/partyuniverse.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Fon Music
@@ -210,8 +240,8 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTA.m3u8
 https://s2.itcnbd.live/server-1/stream/buddystar.m3u8
 #EXTINF:-1 tvg-name="NTV HD",POP Tiny
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV HD",CN HD+
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OA.m3u8
+#EXTINF:-1  ,Cartoon Network
+https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Duranta TV HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njg.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Baby Shark TV
@@ -239,7 +269,7 @@ https://s2.itcnbd.live/server-1/stream/smarty.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Sonic
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDU.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Sony Yay
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTM.m3u8
+https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Super Hungama
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzU.m3u8
 #EXTINF:-1 tvg-name="NTV HD",AMC Anime
@@ -256,6 +286,10 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzM.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzk.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Romedy Now
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzQ.m3u8
+#EXTINF:-1  ,Sony Channel Andes (1080p)
+http://177.234.249.178:8888/SONY-TV/index.m3u8
+#EXTINF:-1  ,Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Sony Pix HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzI.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Star Movies HD
@@ -284,22 +318,68 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjY.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAy.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Delicious
 https://s2.itcnbd.live/server-1/stream/delicious.m3u8
-#EXTINF:-1 tvg-name="NTV HD",Discovery HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjI.m3u8
+#EXTINF:-1  ,Discovery
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1  ,Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+#EXTINF:-1  ,Discovery_Asia HD
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
 #EXTINF:-1 tvg-name="NTV HD",History HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTU.m3u8
+https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Love Nature
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njc.m3u8
 #EXTINF:-1 tvg-name="NTV HD",National Geography HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjU.m3u8
 #EXTINF:-1 tvg-name="NTV HD",National Wild HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
-#EXTINF:-1 tvg-name="NTV HD",BBC Earth HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Ng.m3u8
+#EXTINF:-1  ,Sony BBC Earth HD
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",TLC HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OQ.m3u8
-#EXTINF:-1 tvg-name="NTV HD",TravelXP HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjI.m3u8
+#EXTINF:-1  ,TravelXP HD
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1  ,Wild Life
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1  ,Travel XP English
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  ,OUTDOOR CHANNEL 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1  ,REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1  ,FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1  ,Times Of India
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1  ,Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1  ,TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  ,Press TV Iran
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1  ,France News 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1  ,France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1  ,DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1  ,CNN NEWS
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1  ,T Global News (Canada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1  ,RT News (EN) 🛜
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1  ,CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1  ,CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  ,Global News (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1  ,India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1  ,NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1  ,NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Geo News
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTA.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Hum TV
