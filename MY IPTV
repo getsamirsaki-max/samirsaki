@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
+http://172.19.178.29:18190/SN-E02-01/tracks-a1/index.fmp4.m3u8?token=88f2d27193a6c09919f77455d438b83e0e5f2a92-6ddd6d1a641dbcc5c1420a148c51df59-1784521808-1784510708
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
