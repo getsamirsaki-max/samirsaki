@@ -96,8 +96,6 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Atn Bangla
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODA.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD",Rajdhani TV
-https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Atn news
