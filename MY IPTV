@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃BANGLA┃ STAR JALSHA
+#EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=908657&extension=ts&play_token=sgqwy4wN7y
 #EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
