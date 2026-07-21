@@ -1,7 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃BANGLA┃ STAR JALSHA
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=908657&extension=ts&play_token=sgqwy4wN7y
 #EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
-http://172.19.178.59:18190/star_jalsha_hd/tracks-a1/index.fmp4.m3u8?token=5210a0b88e11788445db74f7f227fdfe4eaeea81-4e4e485cb248a7b37f600e9abda0e9d1-1784560381-1784549281
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
