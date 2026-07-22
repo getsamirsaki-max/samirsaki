@@ -76,6 +76,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://s2.itcnbd.live/server-2/proxy/euro_sports_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Feuro_sports_hd_160%2Feuro_sports_hd_160.m3u8%3Fbitrate%3D512000%26channel%3Deuro_sports_hd_160%26gp_id%3D
 #EXTINF:-1 tvg-name="Ptv Sports",Ptv Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ptv Sports",Sport Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1 tvg-name="Fast Sports",Fast Sports
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
 #EXTINF:-1  ,Redbull TV
@@ -91,11 +93,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/1725-audio_113552_eng=113200-video=442000.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Shomoy TV
-https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD",Atn Bangla
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Green TV
@@ -251,7 +251,7 @@ https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Bal Bharat
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTA.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Buddy Star HD
-https://s2.itcnbd.live/server-1/stream/buddystar.m3u8
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",POP Tiny
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1  ,Cartoon Network
@@ -265,25 +265,25 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njg.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Funny Junior HD
-https://s2.itcnbd.live/server-1/stream/funnyjunior.m3u8
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",HUngama
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDk.m3u8
 #EXTINF:-1 tvg-name="NTV HD",JOY
-https://s2.itcnbd.live/server-1/stream/joy.m3u8
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Kids Stars
-https://s2.itcnbd.live/server-1/stream/kidsstars.m3u8
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Lucky Family
-https://s2.itcnbd.live/server-1/stream/luckyfamily.m3u8
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",NICK
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDY.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Nick Junior
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTE.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Nikky
-https://s2.itcnbd.live/server-1/stream/nikky.m3u8
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",POGO
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDg.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Smarty
-https://s2.itcnbd.live/server-1/stream/smarty.m3u8
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Sonic
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDU.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Sony Yay
