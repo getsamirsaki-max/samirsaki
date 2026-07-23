@@ -384,8 +384,8 @@ https://s2.itcnbd.live/server-1/stream/partyuniverse.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Fon Music
 https://s1.itcnbd.live/fon-music/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="NTV HD",DNick
-https://s1.itcnbd.live/fon-music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="NTV HD",Nick
+https://s1.itcnbd.live/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Disney
 https://s1.itcnbd.live/Disney-D/tracks-v1a1/mono.m3u8
@@ -431,9 +431,6 @@ https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Lucky Family
 https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NTV HD",NICK
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDY.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Nick Junior
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTE.m3u8
