@@ -117,8 +117,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Jamuna Tv 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-name="NTV HD",Rajdhani TV 
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/rajdhani_tv_576/rajdhani_tv_576.m3u8?bitrate=1000000&channel=rajdhani_tv_576&gp_id
+#EXTINF:-1 tvg-name="NTV HD",Rajdhani TV https://s2.itcnbd.live/server-2/stream/rajdhani_tv.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Channel S
