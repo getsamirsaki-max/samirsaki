@@ -10,7 +10,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=945575&extension=ts&play_token=29Z4FpUxl1
+http://172.19.178.59:18190/star_jalsha_hd/tracks-a1/index.fmp4.m3u8?token=81236b77de90b54db3023c64abec9871300c30f8-178babab302c32bbe3199fc31838888c-1785150213-1785139113
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -28,17 +28,15 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
+http://172.19.178.59:18190/colors_bangla_hd/tracks-a1/index.fmp4.m3u8?token=a671a558afb183427ccb0951c1b51661cb9f8ed1-84a421e99f3ff472f6888b5028093685-1785150300-1785139200
 
 #EXTINF:-1  ,Sony AATH
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Aath",Sony Aat
+#EXTINF:-1 tvg-name="Sony Aath",Akash Aat
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
-#EXTINF:-1 tvg-name="Jalsha Movies HD",Jalsha Movies HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
-
+#EXTINF:-1 tvg-name="Jalsha Movies HD",Jalsha Movies HDhttp://172.19.178.59:18190/jalsha_movies_hd/tracks-a1/index.fmp4.m3u8?token=a7c699a121964e0d13704bae8e26de6748d14849-5d29eebcc5512e6b74f2bbcddb60a784-1785150357-1785139257
 #EXTINF:-1  ,Zee Bangla Sonar (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
