@@ -9,29 +9,26 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-name="Gazi TV",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
-
 #EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
 http://172.19.178.59:18190/star_jalsha_hd/tracks-a1/index.fmp4.m3u8?token=81236b77de90b54db3023c64abec9871300c30f8-178babab302c32bbe3199fc31838888c-1785150213-1785139113
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
+#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD A
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
+#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD B
 https://s2.itcnbd.live/server-2/proxy/zee_bangla/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_bangla_576%2Fzee_bangla_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_bangla_576%26gp_id%3D
 
 #EXTINF:-1 tvg-name="Sun Bangla HD",Sun Bangla HD
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
+
 
 #EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
-http://172.19.178.59:18190/colors_bangla_hd/tracks-a1/index.fmp4.m3u8?token=a671a558afb183427ccb0951c1b51661cb9f8ed1-84a421e99f3ff472f6888b5028093685-1785150300-1785139200
+
 
 #EXTINF:-1  ,Sony AATH
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
@@ -46,7 +43,7 @@ http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla Cinema",Colors Bangla Cinema
-https://pro.hridoytv-iptv.workers.dev/link-copy-kore-lav-nai=expire43738831219634/render.m3u8?auth=W4-msx0cahtqTRj-PX-d2KdXkZoyuTSAQ3BITjn1O4xkqiKj8GHsVd3QOJ0wKguJsJSytEQIhbbwoT693FhywOCR_oWxOdb0MhMoODilZ0sXn1jdcBLzNMC9h6uU7sPwlHGposXx9Pis1WQnNE3nMNSvdLU-Ve5YNanLvFH0KpXXNtdwxRIylMwFYmv3-ek3LsyWTMKaGbE2qkBDZ_81JaUgMBq3-kykqnnRZIfFdQHd_CtwZMOrC_xGEBvKtQFss4pBDgCUdwkrXmkzFjrf2I2QVUSMgcjYHsCLrVXzOmwbAPsgsqYGdOmCAhVBgWtP5SRh16tiau4NkZAyx6w2zwK_mrVlUSoiLBkB5Pu51B8RCxrNdQLhs3dJUpiTjwTkU7X_ov3fPg6b0QIpew_haIFTeKcAewe1SmxqFU0pUW-hADVNkl0M5niNfjUdV_ilwlN28QJBjtYYAqw6Gb_4l0dE5VPiupOD9Ee5z6-cM4xTxj5TGcIHa79F9vJlX2t0wfKfAocFVff_OMU6Ooqzx6Rerq-jptJ2mKHzOrGg6e5u72yRsjG3bsWgfRaPPM3CLpfGpw-YIM3tRM5-dpGi4ArO-g8RH9CH70GBQuKzxTy2Z49cKZ8z9Ys3ELIodERHja80VfRp_XEf_nh3_w==&channel_key_id=1657&hdnea=st=1785138696~exp=1785225096~acl=/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/*~hmac=d1ed542119c453e3da588ffa178ffb1769985bc95f4ea3e386929fc6a32f6383
+
 
 #EXTINF:-1 tvg-name="Jalsha Movies HD",Enter 10
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
@@ -60,29 +57,20 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-name="T Sports HD",T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="T Sports HD",T Sports HD
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
-http://103.151.60.204:881/StarSports1/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 2
-http://103.151.60.204:881/StarSports2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 3",Star Sports 3
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzE.m3u8
+
 
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjg.m3u8
+
 
 #EXTINF:-1 tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTY.m3u8
+
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 1 HD",Sony Sports Ten 1 HD
 https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
@@ -91,7 +79,7 @@ https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sports 3", Sony Sports 3
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzA.m3u8
+
 
 #EXTINF:-1 tvg-name="Sony Sports 5",Sony Sports 5
 https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
@@ -114,9 +102,6 @@ https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",A Sports
-http://103.151.60.204:881/A-Sports/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -130,7 +115,7 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fast Sports",Fast Sports
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
+
 
 #EXTINF:-1  ,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -184,6 +169,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NTV HD",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
@@ -277,13 +263,11 @@ https://s2.itcnbd.live/server-2/proxy/hum_sitaray/playlist?u=https%3A%2F%2Fbldcm
 https://s2.itcnbd.live/server-2/proxy/andpicture_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fandpicture_hd_576%2Fandpicture_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dandpicture_hd_576%26gp_id%3D
 
 #EXTINF:-1 tvg-name="NTV HD",Clors Cineplex HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTA.m3u8
 
 #EXTINF:-1  ,Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Colors HD
-https://pro.hridoytv-iptv.workers.dev/link-copy-kore-lav-nai=expire43738831219634/render.m3u8?auth=cyLu0NJx4aldxsqq733lr3ucWqEZnnquBLStI-Wgia-U566UIscoWZGS6ufMVRfJi_frmVCwEtfTFweD5KM8hSk8T-MCJI_4fBtWIhGKur0kMz5INlFQ3YJyPsIkg87J9imwcBEveh9aku1RY5PLK09ugMwak1IC9BRASvKE4vB8XjSGjd43E0BejZoguuOxtZmSWxxCwiu65ADEG7cO1EMGartbtYIjM3edpYmoR0QtoDp5oL0EJV4bRLe6sFbpz95f6_IaGA8raIuqiCjsVFHpzQtA-VPud-Cb3fXWZonEPCMUDZI4dy6oZOqQBh9ZZ2z8s3wBBQgltT9Gr2kpUSOF5FCya99lJlSlM4CqT_nTKSem8Lro_NmetlXaUUSDaTLca-l-niIXpSvEzdG1_A02_SmhoHjnRZlNKpcnky-Sws1WVepB1HEfXVxEPPaspYipy8YF6zP4d-tbCyrJG3fJhwWQfq3BXT6imH50oWZ6psQU76p6v0LA_G6IMDRa-Fp3eoCwynxGcHqtORUVJRmRXAWCy2qpuQYDUffeQyJFELZOY71X6slIknpik95pR2NrineFESWae6jQvA==&channel_key_id=144&hdnea=st=1785138903~exp=1785225303~acl=/bpk-tv/ColorsHD_MOB/Fallback/*~hmac=ab1a3f39e5c490487c42aa77b300e126ddcc70101ea9f54750d99e6787eec068https://pro.hridoytv-iptv.workers.dev/link-copy-kore-lav-nai=expire43738831219634/render.m3u8?auth=cyLu0NJx4aldxsqq733lr3ucWqEZnnquBLStI-Wgia-U566UIscoWZGS6ufMVRfJi_frmVCwEtfTFweD5KM8hSk8T-MCJI_4fBtWIhGKur0kMz5INlFQ3YJyPsIkg87J9imwcBEveh9aku1RY5PLK09ugMwak1IC9BRASvKE4vB8XjSGjd43E0BejZoguuOxtZmSWxxCwiu65ADEG7cO1EMGartbtYIjM3edpYmoR0QtoDp5oL0EJV4bRLe6sFbpz95f6_IaGA8raIuqiCjsVFHpzQtA-VPud-Cb3fXWZonEPCMUDZI4dy6oZOqQBh9ZZ2z8s3wBBQgltT9Gr2kpUSOF5FCya99lJlSlM4CqT_nTKSem8Lro_NmetlXaUUSDaTLca-l-niIXpSvEzdG1_A02_SmhoHjnRZlNKpcnky-Sws1WVepB1HEfXVxEPPaspYipy8YF6zP4d-tbCyrJG3fJhwWQfq3BXT6imH50oWZ6psQU76p6v0LA_G6IMDRa-Fp3eoCwynxGcHqtORUVJRmRXAWCy2qpuQYDUffeQyJFELZOY71X6slIknpik95pR2NrineFESWae6jQvA==&channel_key_id=144&hdnea=st=1785138903~exp=1785225303~acl=/bpk-tv/ColorsHD_MOB/Fallback/*~hmac=ab1a3f39e5c490487c42aa77b300e126ddcc70101ea9f54750d99e6787eec068
 
 #EXTINF:-1  ,Sony TV
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
@@ -298,25 +282,19 @@ https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 https://s2.itcnbd.live/server-2/proxy/sonysab_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsonysab_hd_576%2Fsonysab_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsonysab_hd_576%26gp_id%3D
 
 #EXTINF:-1 tvg-name="NTV HD",Star Bharat HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAw.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD", & TV
 https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Gold 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njk.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Gold
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjA.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Gold Select HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzE.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Plus HD
-https://pro.hridoytv-iptv.workers.dev/link-copy-kore-lav-nai=expire43738831219634/render.m3u8?auth=ENHCiC3gUhwI3YdyJv0ORXRjosDCpHqz-Q92F8dtSjhglJcqy8sb1gUJh8WfmlsKn1n8yx-cFekpIemqZDffVWK_RgdHXZPmfRLwVgK9Z3wGWveZm6VlJ68qv636hD69gdgtfoxj5yJCuo2CQahesIndbqLuFcjYBiTAboPn04X2JwVWBhdOWtUyOD0xPE0XQObaUovj8W5w-ilP9LcYNp1Os2my4U81XaJD-IZfyzBPYY5fT8v9yQseGmLyfFTA0oxFWFxIKbCxDO9ADy55a0fuOWw3x5AcMuTn5HiXxKjSKvOvKsGxnvQdgxl0sKv7SViFrJraeTlbN5C8_V1vAJnUmA_9ajRqCwtdWitjfDBWy1NkH7lMxojSoANwuDPbt6HWIAkmsBDbjcyg2jaMIpAljou6chy1YjLYfNBcffyW_Q_695M_StGtRoqppXp4w2E8RB-zrlQnAMUvft4A9rP1YiLrhUxs47Fqy50Azu7buJkq5m1lsHu3MpcS3iVG5brK22VtQVc9VspE8oSSajw1lMzzri0npiyHbN40aJ9lFMKrJ2633IMbBuYy3fg8bTRi2Vh4pctzU4HADkkMD0AA1BzajUWiDySZ13E=&channel_key_id=1132&hdnea=st=1785139032~exp=1785225432~acl=/bpk-tv/Star_Plus_HD_MOB/Fallback/*~hmac=2f25cc9ca32d6c47aab957204b4e66c92c0f16ccaba9072a19fa83d7058bca15
 
 #EXTINF:-1 tvg-name="NTV HD",Sun Neo
-https://pro.hridoytv-iptv.workers.dev/link-copy-kore-lav-nai=expire43738831219634/render.m3u8?auth=n1xUjvOGA11PCVioU2BVpm5hie9RzxG1jyjWRKiCRjSOOoknokBGtS_iKPKczzL8lyr6p-kFd-m8YxhTwbaEJCv0d9vTuy-t-YIuTwpaMN_oQqxYEojWEFyrf5CzmGkCL432b8dSg3NIfFbUdutgpZ7ZKf5gutfTXcudSqHaAryeiclDEhxsPEygcplQtCgpyK9dOm3m_7MmLw6GEfV9xo6Cnql2YWQtFfsezBdXEnxQLSJ61gASu6RupF9_KwTN68ei5LUJQGshB32hs93d8l7nXKHjX4oR05jvpstntzzPXF87rOsSjV6ZE08yp49Q6nM8hRmBclh4DBRJaklpnd3LBc3C-7oUonXJgJcYNlK4ZCa1ADRv7ayO0IIcPeRggvfO_zroufxNDCnzB0gnLWGVxhUZvSVjVkwsexrYHU8L_3V-Gn9lf70jigAAYY5K_vXhKTPV3qdtHq-zYDs_r5HGQUU3WWHLEYdGWW_QdoDJcIQn5Q4kJhmDyF3Me9PDCFSB4T09FqLLUndFMdP8IATlaesNDWJoqOfx-3QIAHQUUy9Crb62zXgfVb4NJ34RxP0YFXazphon&channel_key_id=3088&hdnea=st=1785139085~exp=1785225485~acl=/bpk-tv/SUN_Neo_MOB/Fallback/*~hmac=589c2ccad831fb074fb2d49fac327fb2e757a245ad63e592322280ae6f67c468
 
 #EXTINF:-1 tvg-name="NTV HD",Zee TV
 https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
@@ -331,7 +309,6 @@ https://s2.itcnbd.live/server-2/stream/zing_sd.m3u8
 https://s2.itcnbd.live/server-2/stream/zee_cinema_hd.m3u8
 
 #EXTINF:-1  ,GOLDMINES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
 http://103.175.73.12:8080/live/53/53_0.m3u8
@@ -357,23 +334,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/tC7JLFj0/20240825_055845.png",Shemarooenterta 
 http://103.175.73.12:8080/live/189/189_0.m3u8
 
-#EXTINF:-1 tvg-name="NTV HD",Zee TV HD
-https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-name="NTV HD",Zing 
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTM.m3u8
-
 #EXTINF:-1 tvg-name="NTV HD",Zoom
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDI.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Radio M20
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
-
-#EXTINF:-1 tvg-name="NTV HD",9XM
-https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -400,7 +367,7 @@ https://s1.itcnbd.live/Disney-D/tracks-v1a1/mono.m3u8
 https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Bal Bharat
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTA.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV HD",Buddy Star HD
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
@@ -421,16 +388,16 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Duranta TV HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njg.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV HD",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV HD",HUngama
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDk.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV HD",JOY
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
@@ -442,7 +409,6 @@ https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Nick Junior
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTE.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Nikky
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
@@ -451,37 +417,26 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Sonic
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDU.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Sony Yay
 https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV HD",Sony Yay
-https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
-
 #EXTINF:-1 tvg-name="NTV HD",Super Hungama
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzU.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",AMC Anime
 https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Iflim
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDE.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Xplorer HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjE.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",MN+
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzY.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",MNX
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzM.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Movies Now HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzk.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Romedy Now
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzQ.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",ZEE Cafe
 https://s2.itcnbd.live/server-2/proxy/zee_cafe_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_cafe_hd_576%2Fzee_cafe_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_cafe_hd_576%26gp_id%3D
@@ -496,10 +451,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzI.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Movies HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzg.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Movies Select HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjc.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Screem
 https://s2.itcnbd.live/server-1/stream/screem.m3u8
@@ -529,7 +482,6 @@ https://s2.itcnbd.live/server-1/stream/intelligence.m3u8
 http://27.124.71.27/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",BBC Earth HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAy.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Delicious
 https://s2.itcnbd.live/server-1/stream/delicious.m3u8
@@ -541,7 +493,6 @@ https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 
 #EXTINF:-1  ,Discovery_Asia HD
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",History HD
 https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
@@ -550,16 +501,13 @@ https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
 http://27.124.71.27/Love_Nature/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",National Geography HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjU.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",National Wild HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
 
 #EXTINF:-1  ,Sony BBC Earth HD
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",TLC HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OQ.m3u8
 
 #EXTINF:-1  ,TravelXP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
