@@ -34,7 +34,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Boishakhi tv
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
 
 #EXTINF:-1 tvg-name="NTV HD",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Asian
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+https://s3.itcnbd.live/channel/713e55dcdc7a5e34.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Deepto HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -57,10 +57,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Jamuna Tv 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV HD",Rajdhani TV http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-name="NTV HD",Rajdhani TV https://s3.itcnbd.live/channel/1f6ea48782f1f33a.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Ekhon TV
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+https://s3.itcnbd.live/channel/8e7b048673ac29dc.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
@@ -96,7 +96,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Mohona TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+https://s3.itcnbd.live/channel/656adfcac6a9d453.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
