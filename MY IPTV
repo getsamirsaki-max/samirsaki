@@ -117,8 +117,7 @@ https://s2.itcnbd.live/server-1/stream/srktv.stream.m3u8
 https://s3.itcnbd.live/channel/8a428ac0124345f3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="INDIAN CHANNELS",Star Jalsha HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
-
+http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -174,22 +173,23 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 3",Star Sports 3
 
 
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SELECT 1
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 
 
-#EXTINF:-1 tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
-https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SELECT 2
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD",Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
 https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
 
-#EXTINF:-1 tvg-name="Sony Sports 2 HD",Sony Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
 https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 
-#EXTINF:-1 tvg-name="Sony Sports 3", Sony Sports 3
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 3
 https://s3.itcnbd.live/channel/40c6c1a252cf18c9.m3u8
 
-#EXTINF:-1 tvg-name="Sony Sports 5",Sony Sports 5
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
 https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
 
 #EXTINF:-1 tvg-name="Ten Cricket",Ten Cricket
@@ -279,12 +279,12 @@ https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Star Gold 2 HD
 
 #EXTINF:-1 tvg-name="NTV HD",Star Gold
-https://s3.itcnbd.live/channel/f5dd87a5c3b03131.m3u8
+http://66.102.126.10:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Star Gold Select HD
 
 #EXTINF:-1 tvg-name="NTV HD",Star Plus HD
-https://s3.itcnbd.live/channel/6b0f236ae9a367ed.m3u8
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Sun Neo
 
