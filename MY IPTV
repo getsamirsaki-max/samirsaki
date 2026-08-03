@@ -113,7 +113,7 @@ https://s2.itcnbd.live/server-2/stream/nexus_tv.m3u8
 #EXTINF:-1 tvg-name="NTV HD",Srk TV
 https://s2.itcnbd.live/server-1/stream/srktv.stream.m3u8
 
-#EXTINF:-1 tvg-name="Zee Bangla HD",Star Jalsha
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="INDIAN CHANNELS",Star Jalsha HD
 https://s3.itcnbd.live/channel/8a428ac0124345f3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="INDIAN CHANNELS",Star Jalsha HD
@@ -512,6 +512,7 @@ http://27.124.71.27/Love_Nature/index.m3u8
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",TLC HD
+https://s3.itcnbd.live/channel/bcaf864656b7dd78.m3u8
 
 #EXTINF:-1  ,TravelXP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
