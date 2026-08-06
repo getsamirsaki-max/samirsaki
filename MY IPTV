@@ -3,6 +3,7 @@
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
+
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
@@ -55,7 +56,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Jamuna Tv 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HD",Rajdhani TV https://s3.itcnbd.live/channel/1f6ea48782f1f33a.m3u8
 
